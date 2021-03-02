@@ -29,6 +29,11 @@ int main(int argc, char* argv[])
 			cout << "This program WORK" << endl;
 			return 0;
 		}
+		if (strcmp(argv[i], "-v") == 0)
+		{
+			cout << "git version 2.26.2.windows" <<endl;
+			return 0;
+		}
 	}
     string str;
     int numwrds = 0;
