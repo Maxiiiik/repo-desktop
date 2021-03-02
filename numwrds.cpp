@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+	
+	
     string str;
     int numwrds = 0;
     cout << "Enter the sentence : ";
