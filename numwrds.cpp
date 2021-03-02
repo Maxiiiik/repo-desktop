@@ -1,9 +1,12 @@
 #include <iostream>
 #include <string>
 
-//not so good as it could be but OK
-//some configuration reading  
+//one more nice code block
 using namespace std;
+
+
+
+
 
 int main()
 {
